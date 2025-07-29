@@ -37,11 +37,9 @@ About Me
 - 🌱 I’m currently learning MERN stack and DSA  
   
 
--   
-  
 
 - ⚡ Fun fact: I keep night shift switched on at all times.
-                   : I talk to my code more than people sometimes… and it actually listens (after debugging 😅).  
+- I talk to my code more than people sometimes… and it actually listens (after debugging 😅).  
 
 
 </td><td valign="top" width="50%">
