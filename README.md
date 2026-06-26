@@ -89,7 +89,7 @@ AI-powered advisory platform for crop disease diagnosis and farmer assistance.
 * Offline-capable architecture
 * End-to-end inference pipeline
 
-**Repository:** https://github.com/skulk2545/farmer-ai
+**Repository:** https://github.com/skulk2545/farmer-chatbot
 
 ---
 
@@ -105,7 +105,7 @@ A deployed OCR application that converts handwritten notes into searchable text 
 * Streamlit deployment
 * Indexed 500+ document pages
 
-**Repository:** https://github.com/skulk2545/ocr-notes-engine
+**Repository:** https://github.com/skulk2545/Handwritten_text
 
 ---
 
